@@ -4,6 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        // Day 1 practice
         Console.Write("Please enter the radius: ");
         string rtext = Console.ReadLine();
         double r = double.Parse(rtext);
